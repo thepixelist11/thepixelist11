@@ -3,7 +3,7 @@ I am a passionate CS student at UWaterloo with strong interests in systems progr
 <br>
 <br>
 ## Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/ben-a-n) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:bneeb.dev)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/ben-a-n) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:me@bneeb.dev)
 <br>
 <br>
 <!--
